@@ -1,0 +1,3 @@
+## Welcome to OpenElections!
+
+The goal of OpenElections is to create the first free, comprehensive, standardized, linked set of election data for the United States, including federal, statewide and state legislative offices. No freely available comprehensive source of official election results exists. The current options for election data can be difficult to find and use or financially out-of-reach for most journalists and civic hackers. We want the people who work with election data to be able to get what they need, whether that's a CSV file for stories and data analysis or JSON usable for web applications and interactive graphics.
